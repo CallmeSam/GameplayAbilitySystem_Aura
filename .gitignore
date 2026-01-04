@@ -6,7 +6,6 @@ Build
 
 .vscode
 .vs
-.idea
 .vsconfig
 *.VC.db
 *.opensdf
